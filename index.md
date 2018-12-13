@@ -1,5 +1,8 @@
 # Digital Rights
 
+[Blog](https://digital-rights.github.io/light/archive) | [About](https://digital-rights.github.io/light/about)
+
+
 ---
 
 
@@ -45,3 +48,12 @@ Our work is hosted on our [GitHub Organization page](https://github.com/digital-
 ## Get notified on future updates
 
 Use our [RSS feed](https://github.com/digital-rights/rss/releases.atom) to get updates, to get our RSS feed in your email follow [this instructions](https://www.quora.com/What-is-the-best-free-RSS-to-email-service).
+
+
+---
+
+[Contact info](https://digital-rights.github.io/light/contact)
+
+© Digital Rights 2018
+
+Powered by [Jekyll](https://jekyllrb.com) & [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme).
