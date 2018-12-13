@@ -1,4 +1,4 @@
-# Digital Rights
+# [Digital Rights](https://digital-rights.github.io/light/)
 
 [Blog](https://digital-rights.github.io/light/archive) | [About](https://digital-rights.github.io/light/about)
 
