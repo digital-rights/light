@@ -58,4 +58,4 @@ Consider making a donation to promote digital rights and free culture.
 
 Powered by [Jekyll](https://jekyllrb.com) & [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme).
 
-[Terms of Service + Privacy Policy](https://digital-rights.github.io/policy.html)
+[Terms of Service + Privacy Policy](https://digital-rights.github.io/light/policy.html)

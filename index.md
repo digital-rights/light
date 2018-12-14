@@ -68,4 +68,4 @@ Use our [RSS feed](https://github.com/digital-rights/rss/releases.atom) to get u
 
 Powered by [Jekyll](https://jekyllrb.com) & [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme).
 
-[Terms of Service + Privacy Policy](https://digital-rights.github.io/policy.html)
+[Terms of Service + Privacy Policy](https://digital-rights.github.io/light/policy.html)
