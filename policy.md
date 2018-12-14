@@ -30,11 +30,11 @@ Click on the name of a license for more information.
 
 # Privacy Policy
 
-We do not collect any information from our website or software users, however third parties do collect statistics via cookies on our website but _you can easily opt out_ or block information collecting scripts or cookies.
+We do not collect any information from **this website** or software users, however on our non-light site there are third parties that do collect statistics via cookies on that website but _you can easily opt out_ or block information collecting scripts or cookies.
 
-**Third parties who collect data:** fontawsome and Bootstrap are used in our website to provide _icons and buttons_, both companies share the same [privacy policy](https://www.bootstrapcdn.com/privacy-policy/), they collect analytics to determine what icons are the most popular.
+**Third parties who collect data on our other site:** fontawsome and Bootstrap are used in our website to provide _icons and buttons_, both companies share the same [privacy policy](https://www.bootstrapcdn.com/privacy-policy/), they collect analytics to determine what icons are the most popular.
 
-**How to opt out of third party data collection:** since the icons are not necessary to use our website you can block them without losing any functionality, to block them use [noscript](https://github.com/hackademix/noscript/) or [ublock](https://github.com/gorhill/uBlock) origin. Alternatively we provide a light version of our website that does not use fontawsome or Bootstrap whatsoever: [digital-rights.github.io/light](https://digital-rights.github.io/light/).
+**How to opt out of third party data collection:** since the icons are not necessary to use our website you can block them without losing any functionality, to block them use [noscript](https://github.com/hackademix/noscript/) or [ublock](https://github.com/gorhill/uBlock) origin. Alternatively we provide a light version of our website that does not use fontawsome or Bootstrap whatsoever: [digital-rights.github.io/light](https://digital-rights.github.io/light/), you are currently in said light version.
 
 
 
