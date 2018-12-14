@@ -5,6 +5,11 @@
 
 ---
 
+	You are using the light version of our website, it is designed to serve the same functionality without needing cookies or javascript and to lower your digital footprint. 
+
+	To go to our regular site remove '/light' from the url.
+
+
 
 # Usernames are people too
 
